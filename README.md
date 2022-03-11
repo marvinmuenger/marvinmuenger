@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check out my website at [marvinmuenger.ch](marvinmuenger.ch)
 
-- 📫 Connect with me: marvin.muenger@gmail.com
+- 📫 If you want to work together, have any questions, or just want to say hi: marvin.muenger@gmail.com
 
 - ⚡ Fun fact: I love to play the piano and make short films
 
