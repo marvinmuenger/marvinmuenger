@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">A passionate developer and filmmaker from Switzerland</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Swiss+Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+a+Swiss+Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 - 🔭 I’m studying **computer science** at the University of Zurich
 
