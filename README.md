@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">A passionate developer and filmmaker from Switzerland</h3>
 
-- 🔭 I’m currently working on **my bachelor degree**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Swiss+Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🔭 I’m studying **computer science** at the University of Zurich
+
+- 🌱 I’m currently learning **Flutter** and **Firebase**
 
 - 👨‍💻 All of my projects are available at [marvinmuenger.ch](marvinmuenger.ch)
 
 - 📫 How to reach me **marvin.muenger@gmail.com**
 
-- ⚡ Fun fact **I like playing the piano**
+- ⚡ Fun fact **When I am not **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
