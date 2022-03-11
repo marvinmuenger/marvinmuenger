@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **Firebase**
 
-- 👨‍💻 Check out my website at [marvinmuenger.ch](www.marvinmuenger.ch)
+- 👨‍💻 Check out my website at [marvinmuenger.ch](https://www.marvinmuenger.ch)
 
 - 📫 If you want to work together, have any questions, or just want to say hi: marvin.muenger@gmail.com
 
