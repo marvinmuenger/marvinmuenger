@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying **computer science** at the University of Zurich
 
-- 🌱 I’m currently learning **Flutter** and **Firebase**
+- 🌱 I’m currently learning **.Net MAUI** and **Blazor**
 
 - 👨‍💻 Check out my website at [marvinmuenger.ch](https://www.marvinmuenger.ch)
 
