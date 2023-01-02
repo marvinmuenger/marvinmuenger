@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+a+Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-- 🔭 I’m studying **computer science** at the University of Zurich
+- 🔭 I studied **Computer Science** at the University of Zurich with a focus on People-Oriented Computing
 
 - 🌱 I’m currently learning **.Net MAUI** and **Blazor**
 
